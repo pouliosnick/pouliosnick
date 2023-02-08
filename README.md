@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Nick Poulios.
-- 🌱 I’m Postdoctoral researcher at Montanuniversitat Leoben in Austria and member of Data Analytics lab at the Department of Economics at the National and Kapodistrian University Of Athens, Greece, 
+- 🌱 I’m Postdoctoral researcher at Montanuniversitat Leoben in Austria and research member of Data Analytics lab at the Department of Economics at the National and Kapodistrian University Of Athens, Greece, 
      Division of Mathematics, Informatics and Quantitative Methods.
      I am interested in:
      
